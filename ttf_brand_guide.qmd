@@ -1,0 +1,74 @@
+---
+title: "TTF Brand Guide"
+format: pdf
+editor: visual
+---
+
+## Quarto
+
+## 1. Brand foundation
+
+### Project name
+
+Tame the Flame
+
+### Full project title
+
+Wildfire Risk Reduction Through Hydrated Vegetated Greenbelt Buffers at the Wildland–Urban Interface
+
+### Recommended descriptor
+
+Hydrated landscapes for wildfire resilience
+
+Use the full project title in formal reports, academic materials, and first references. Use Tame the Flame as the short public-facing name in presentations, graphics, outreach materials, and social media
+
+Avoid using “buffer strips” as the primary project name because the project considers a wider range of landscape types, including agricultural lands, riparian corridors, managed open spaces, shaded fuel breaks, and greenbelts
+
+### Positioning statement
+
+Tame the Flame examines how alternative water supplies, landscape management, and policy tools can support vegetated greenbelt buffers as one component of broader wildfire resilience in Santa Barbara County
+
+### Primary audiences
+
+-   Watershed Progressive staff and project partners
+-   Santa Barbara County Fire Safe Council and RWMP collaborators
+-   Water agencies, wastewater agencies, and stormwater professionals
+-   Fire departments, land managers, planners, and regulators
+-   Agricultural operators and owners of working lands
+-   Community organizations and residents in WUI areas
+-   Potential funders and government agencies
+-   Academic reviewers and technical experts
+
+### Core values
+
+**Integrated resilience:** Connect water, wildfire, land use, infrastructure, and community planning rather than treating them as separate systems
+
+**Practicality:** Focus on feasible pathways, implementation constraints, and information that can support future decision-making
+
+**Evidence:** Ground recommendations in spatial data, case studies, policy research, modeling, and practitioner experience
+
+**Stewardship:** Recognize the ecological, agricultural, cultural, and community value of managed landscapes
+
+**Collaboration:** Emphasize that implementation will require coordination among agencies, landowners, technical experts, and communities
+
+**Adaptability:** Communicate uncertainty clearly and allow recommendations to change as new data and implementation experience become available
+
+
+
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
