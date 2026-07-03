@@ -55,6 +55,22 @@ Tame the Flame examines how alternative water supplies, landscape management, an
 
 ## 2. Logo system
 
+### Partner logo lockup
+The Bren School, Watershed Progressive, Santa Barbara County Fire Safe Council, and RWMP logos are partner marks and should remain separate from the Tame the Flame logo
+
+#### Recommended structure
+**Developed by**
+Tame the Flame | Bren School of Environmental Science and Management
+
+**In partnership with**
+Watershed Progressive | Santa Barbara County Fire Safe Council
+
+**Aligned with**
+Regional Wildfire Mitigation Program
+
+The exact language and logo order should be confirmed with project partners before public release
+
+
 ## Running Code
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
