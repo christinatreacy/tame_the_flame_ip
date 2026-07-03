@@ -4,7 +4,7 @@ format: pdf
 editor: visual
 ---
 
-## Quarto
+# Tame the Flame Impact Project Brand Guide
 
 ## 1. Brand foundation
 
@@ -53,8 +53,7 @@ Tame the Flame examines how alternative water supplies, landscape management, an
 
 **Adaptability:** Communicate uncertainty clearly and allow recommendations to change as new data and implementation experience become available
 
-
-
+## 2. Logo system
 
 ## Running Code
 
