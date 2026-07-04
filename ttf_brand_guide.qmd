@@ -1,22 +1,24 @@
 ---
-title: "TTF Brand Guide"
+title: "Tame the Flame Impact Project Brand Guide"
+author: created by Christina Treacy
+date: June 3, 2026
 format: pdf
 editor: visual
 ---
 
-# Tame the Flame Impact Project Brand Guide
+**AI Disclosure:** Portions of this document were drafted or refined with the assistance of artificial intelligence tools. The final content was reviewed, edited, and approved by the human author.
 
-## 1. Brand foundation
+# 1. Brand foundation
 
-### Project name
+## Project name
 
 Tame the Flame
 
-### Full project title
+## Full project title
 
 Wildfire Risk Reduction Through Hydrated Vegetated Greenbelt Buffers at the Wildland–Urban Interface
 
-### Recommended descriptor
+## Recommended descriptor
 
 Hydrated landscapes for wildfire resilience
 
@@ -24,11 +26,11 @@ Use the full project title in formal reports, academic materials, and first refe
 
 Avoid using “buffer strips” as the primary project name because the project considers a wider range of landscape types, including agricultural lands, riparian corridors, managed open spaces, shaded fuel breaks, and greenbelts
 
-### Positioning statement
+## Positioning statement
 
 Tame the Flame examines how alternative water supplies, landscape management, and policy tools can support vegetated greenbelt buffers as one component of broader wildfire resilience in Santa Barbara County
 
-### Primary audiences
+## Primary audiences
 
 -   Watershed Progressive staff and project partners
 -   Santa Barbara County Fire Safe Council and RWMP collaborators
@@ -39,7 +41,7 @@ Tame the Flame examines how alternative water supplies, landscape management, an
 -   Potential funders and government agencies
 -   Academic reviewers and technical experts
 
-### Core values
+## Core values
 
 **Integrated resilience:** Connect water, wildfire, land use, infrastructure, and community planning rather than treating them as separate systems
 
@@ -53,37 +55,148 @@ Tame the Flame examines how alternative water supplies, landscape management, an
 
 **Adaptability:** Communicate uncertainty clearly and allow recommendations to change as new data and implementation experience become available
 
-## 2. Logo system
+# 2. Logo system
 
-### Partner logo lockup
+## Partner logo lockup
+
 The Bren School, Watershed Progressive, Santa Barbara County Fire Safe Council, and RWMP logos are partner marks and should remain separate from the Tame the Flame logo
 
-#### Recommended structure
-**Developed by**
-Tame the Flame | Bren School of Environmental Science and Management
+## Recommended structure
 
-**In partnership with**
-Watershed Progressive | Santa Barbara County Fire Safe Council
+**Developed by** Tame the Flame \| Bren School of Environmental Science and Management
 
-**Aligned with**
-Regional Wildfire Mitigation Program
+**In partnership with** Watershed Progressive \| Santa Barbara County Fire Safe Council
+
+**Aligned with** Regional Wildfire Mitigation Program
 
 The exact language and logo order should be confirmed with project partners before public release
 
+## Logo placement
 
-## Running Code
+-   Use the project logo as the primary identity on title pages and covers
+-   Place partner logos in a footer, closing slide, acknowledgments page, or dedicated partnership section
+-   Give partner logos approximately equal visual weight
+-   Align logos by optical height rather than exact dimensions
+-   Place logos on white, warm sand, or another uncluttered background
+-   Use approved full-color or white logo versions only
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Clear space
 
-```{r}
-1 + 1
-```
+Maintain clear space around each logo equal to at least: + Half the height of the project submark + Half the height of each partner logo
 
-You can add options to executable code like this
+## Minimum sizes
+
+-   Primary project logo: 180 pixels wide for digital use
+-   Secondary stacked logo: 120 pixels wide
+-   Submark: 32 pixels wide
+-   Partner logos: large enough for all text to remain legible
+
+## Logo misuse
+
+**Do not:**
+
+-   Stretch, compress, rotate, or skew logos
+-   Recolor partner logos
+-   Add shadows, outlines, gradients, or effects
+-   Place logos over visually busy photographs
+-   Combine partner logos into a new symbol
+-   Change the proportions or arrangement of existing partner marks
+-   Place logos too close together
+-   imply that Tame the Flame is owned by one partner unless formally approved
+
+# 3. Color palette
+
+The palette connects the visual languages of all four partner organizations while keeping the project from appearing overly colorful
 
 ```{r}
 #| echo: false
-2 * 2
+# Create a simple table with 3 columns
+ttf_primary_color_palatte <- data.frame(
+  color = c(
+    "Watershed Teal", 
+    "Chaparral Green", 
+    "Warm Sand", 
+    "Charcoal"),
+  primary_use = c(
+    "Primary project color, water systems, headings, diagrams", 
+    "Vegetation, land stewardship, section backgrounds", 
+    "Main presentation and document background",
+    "Primary text and linework"),
+   hex = c("#2F6F78", "#1F5B3B", "#F4F0E8", "#2E3336")
+)
+
+ttf_secondary_color_palatte <- data.frame(
+  color = c(
+    "Bren Blue", 
+    "Resilience Orange", 
+    "Landscape Sage", 
+    "Safety Gold",
+    "Water Mist",
+    "White"),
+  primary_use = c(
+    "Water data, academic materials, links, secondary emphasis", 
+    "Wildfire risk, priority actions, calls to attention", 
+    "Restoration, lower-intensity fills, secondary vegetation data",
+    "Funding, opportunities, warnings, Fire Safe Council alignment",
+    "Table shading, map backgrounds, diagrams, callout boxes",
+    "Negative space and text on dark backgrounds"),
+   hex = c("#005DA6", "#F5824E", "#A4CF7B", "#FDBD48", "#DDE7E5", "#FFFFFF")
+)
+
+library(knitr)
+
+# Renders a clean Markdown/HTML table
+kable(ttf_primary_color_palatte)
+kable(ttf_secondary_color_palatte)
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+## Color hierarchy
+
+**Recommended overall balance:**
+
+-   45% warm sand or white
+-   25% watershed teal or chaparral green
+-   15% charcoal
+-   10% blue or sage
+-   5% orange or gold
+
+Orange and gold should function as accents rather than dominant page colors
+
+## Approved text combinations
+
+**Use:**
+
+-   White or warm sand text on chaparral green
+-   White or warm sand text on watershed teal
+-   White text on Bren blue
+-   White text on charcoal
+-   Charcoal text on warm sand
+-   Charcoal text on white
+-   Charcoal text on water mist
+-   Charcoal text on landscape sage
+-   Charcoal text on resilience orange or safety gold
+
+**Avoid:**
+
+-   White text on orange
+-   White text on sage
+-   White text on gold
+-   Charcoal text on teal, green, or blue
+-   Orange text on white for small body copy
+-   Green text placed directly over vegetation photography
+
+## Data visualization color rules
+
+Use color consistently across all maps, charts, and process diagrams:
+
+-   Water availability and infrastructure: watershed teal and Bren blue
+-   Vegetation and restoration: chaparral green and landscape sage
+-   Wildfire hazard and exposure: resilience orange
+-   Funding or opportunity: safety gold
+-   Existing conditions: charcoal and gray
+-   Constraints or unavailable areas: muted gray
+-   Priority VGB opportunity areas: dark green outline with teal fill
+-   Areas requiring additional review: gold hatch or outline
+-   Highest-risk areas: orange, not red unless required by an existing agency dataset
+
+Do not use green to indicate “safe” if it is also being used to represent vegetation
